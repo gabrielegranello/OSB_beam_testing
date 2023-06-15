@@ -1,0 +1,5 @@
+	.DS_Store
+	Figures/
+	S/
+	beam_postprocessing.code-workspace
+	*.CSV
