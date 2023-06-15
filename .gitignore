@@ -3,3 +3,5 @@
 	S/
 	beam_postprocessing.code-workspace
 	*.CSV
+	*.png
+	*.xlsx
