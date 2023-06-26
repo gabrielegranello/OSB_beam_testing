@@ -1,7 +1,7 @@
-	.DS_Store
-	Figures/
-	S/
-	beam_postprocessing.code-workspace
-	*.CSV
-	*.png
-	*.xlsx
+.DS_Store
+Figures/
+S/
+beam_postprocessing.code-workspace
+*.CSV
+*.png
+*.xlsx
